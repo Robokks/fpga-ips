@@ -1,0 +1,30 @@
+# Simulation outputs
+*.vcd
+*.lxt
+*.fst
+*.log
+*.out
+
+# Iverilog compiled output
+*.vvp
+
+# Synth outputs
+*.bit
+*.bin
+*.mcs
+*.xpr
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+
+# Editors
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build dirs
+build/
+obj_dir/
